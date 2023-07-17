@@ -16,7 +16,8 @@ Once the webpage is open, the navigation bar will work as needed to show the use
 If for any reason the images don't load properly, the user will see alternative text describing what the images should have displayed.
 
 ![Screenshots of Horiseon a web search optimization company](./assets/images/Challenge%201.1.jpg)
-[Second Screenshot](./assets/images/Challenge%201.2.jpg)
+
+![Second Screenshot](./assets/images/Challenge%201.2.jpg)
 
 
 
