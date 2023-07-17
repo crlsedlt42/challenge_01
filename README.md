@@ -15,7 +15,8 @@ This is easy to run, simply open the HTML file in a browser.
 Once the webpage is open, the navigation bar will work as needed to show the user article portion of the website.
 If for any reason the images don't load properly, the user will see alternative text describing what the images should have displayed.
 
-
+![Screenshots of Horiseon a web search optimization company](./assets/images/Challenge%201.1.jpg)
+[Second Screenshot](./assets/images/Challenge%201.2.jpg)
 
 
 
@@ -53,8 +54,3 @@ I had a hard time finding the accessible alt attributes, which made the first tw
 
 The last task seemed straight-forward but didn't have time to complete
 
-###
-
-
-
-### 
